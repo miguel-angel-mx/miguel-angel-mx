@@ -8,7 +8,7 @@ Bienvenid@ a mi página
 </p>
 
 <p style="font-size:1.1rem; margin-bottom:20px">
-Soy Miguel, desarrollador fullstack de Chihuahua, México.
+Soy Miguel, desarrollador full stack de Chihuahua, México.
 </p>
 <p style="font-size:1.1rem; margin-bottom:20px">
 Apasionado 
